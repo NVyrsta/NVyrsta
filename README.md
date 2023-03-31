@@ -2,6 +2,10 @@
 My name is **Nataliia Vyrsta**, and as a **Full Stack Developer**, I have
 I am a versatile and skilled professional who can build and maintain entire web applications from the ground up. Equipped with a wide range of expertise in various front-end and back-end technologies, I am capable of delivering seamless user experiences while ensuring robust and efficient application performance.
 
+Check out my portfolio to see some of my recent projects: https://nvyrsta.github.io/my_portfolio/
+
+Let me know if you have any other requests or changes you'd like to make.
+
 ## Technologies
 ![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
