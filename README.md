@@ -1,6 +1,6 @@
 # Hello and welcome to my GitHub profile! 
-My name is **Nataliia Vyrsta**, and as a **Full Stack Developer**, I have
-I am a versatile and skilled professional who can build and maintain entire web applications from the ground up. Equipped with a wide range of expertise in various front-end and back-end technologies, I am capable of delivering seamless user experiences while ensuring robust and efficient application performance.
+My name is **Nataliia Vyrsta**, and as a **Front-end Developer**, I have
+I am a versatile and skilled professional who can build and maintain entire web applications from the ground up. Equipped with a wide range of expertise in various front-end technologies, I am capable of delivering seamless user experiences while ensuring robust and efficient application performance.
 
 Check out my portfolio to see some of my recent projects: https://nvyrsta.github.io/my_portfolio/
 
@@ -17,8 +17,6 @@ Let me know if you have any other requests or changes you'd like to make.
 ![jQuery Icon](https://img.icons8.com/ios-filled/48/000000/jquery.png)
 ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![Sass Icon](https://img.icons8.com/color/48/000000/sass.png)
-![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png)
-![Express.js Icon](https://img.icons8.com/color/48/000000/express.png)
 ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql.png)
 ![Git Icon](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub Icon](https://img.icons8.com/material-outlined/48/000000/github.png)
@@ -31,7 +29,6 @@ Here are some of the technologies that I am proficient in:
 * **jQuery** to simplify DOM manipulation and event handling.
 * **Bootstrap and Tailwind** to easily style and layout web pages.
 * **Sass** to extend CSS with variables, mixins, and functions.
-* **Node.js and Express.js** to build scalable and efficient server-side applications that handle data and business logic.
 * **MySQL** to store and manage data for web applications.
 * **Git and GitHub** to collaborate with other developers and manage version control for my projects.
 * **Redux** to manage application state and simplify data flow in React applications.
