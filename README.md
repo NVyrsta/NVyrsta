@@ -13,7 +13,6 @@ Let me know if you have any other requests or changes you'd like to make.
 ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png)
 ![React Icon](https://img.icons8.com/color/48/000000/react-native.png)
 ![Vue.js Icon](https://img.icons8.com/color/48/000000/vue-js.png)
-![Angular Icon](https://img.icons8.com/color/48/000000/angularjs.png)
 ![jQuery Icon](https://img.icons8.com/ios-filled/48/000000/jquery.png)
 ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![Sass Icon](https://img.icons8.com/color/48/000000/sass.png)
@@ -25,7 +24,7 @@ Here are some of the technologies that I am proficient in:
 
 * **HTML and CSS** to build beautiful and responsive user interfaces that are intuitive and easy to use.
 * **JavaScript and TypeScript** to add interactivity and dynamic behavior to web applications.
-* **React, Vue.js, and Angular** to create powerful and dynamic front-end applications.
+* **React and Vue.js** to create powerful and dynamic front-end applications.
 * **jQuery** to simplify DOM manipulation and event handling.
 * **Bootstrap and Tailwind** to easily style and layout web pages.
 * **Sass** to extend CSS with variables, mixins, and functions.
